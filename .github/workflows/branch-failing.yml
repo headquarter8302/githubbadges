@@ -9,4 +9,4 @@ jobs:
 
     steps:
     - name: End workflow
-      run: exit 0
+      run: exit 1
