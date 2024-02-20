@@ -1,0 +1,12 @@
+name: Passing workflow
+
+on:
+  workflow_dispatch:
+
+jobs:
+  pass:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: End workflow
+      run: exit 0
