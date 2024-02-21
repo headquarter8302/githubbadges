@@ -1,4 +1,4 @@
-name: Passing workflow
+name: Branch passing workflow
 
 on:
   workflow_dispatch:

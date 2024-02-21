@@ -1,4 +1,4 @@
-name: Passing workflow
+name: Branch passing push workflow
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Failing workflow
+name: Branch failing workflow
 
 on:
   workflow_dispatch:
