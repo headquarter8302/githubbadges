@@ -1,4 +1,4 @@
-name: Failing workflow
+name: Failing push workflow
 
 on:
   push:

@@ -1,4 +1,4 @@
-name: Passing workflow
+name: Passing push workflow
 
 on:
   push:
